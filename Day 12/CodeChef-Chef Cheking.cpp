@@ -1,4 +1,4 @@
-bool areAnagram(string str1, string str2)
+bool checking(string str1, string str2)
 {
     int n1 = str1.length();
     int n2 = str2.length();
